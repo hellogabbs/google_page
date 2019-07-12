@@ -1,0 +1,120 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: #5F6368;
+    padding-left: 15px;
+}
+
+.top-bar nav{
+    float: right;
+    align-items: baseline;
+    margin-right: 1.5rem;
+    margin-top: 1rem;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+   
+
+}
+
+.top-bar nav a{
+    color: rgba(0, 0, 0, 0.87);
+}
+
+#grid {
+    width: 19px;
+    height: auto;
+    
+}
+
+#btn-sign {
+    background-color: #4888f2;
+    color: white;
+    font-weight: bold;
+    border-radius: 2px;
+    border: none;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin: 7px;
+
+}
+
+.buscador {
+    text-align: center;
+  padding: 200px;
+}
+
+.buscador input{
+    width: 50%;
+    border-radius: 20px;
+    border: 1px solid #d8d8d8d8;
+    font-size: 30px;
+    margin-bottom: 1.5rem;
+}
+
+.buscador input:hover{
+    width: 50%;
+    border-radius: 20px;
+    border: 1px solid #d8d8d8d8;
+    font-size: 30px;
+    margin-bottom: 1.5rem;
+    box-shadow: 1px 1px 5px rgba(211, 216, 217, 0.8)
+}
+
+.logo img{
+    float: center;
+    width: 272px;
+    height: auto;
+}
+
+.btn-google {
+    background-color: #f2f2f2;
+    color: #5f6368;
+    border-radius: 2px;
+    border: 0.3px solid #5f6368;
+
+}
+
+.btn-google:hover {
+    background-color: #ffffff;
+    color: #000000;
+    border-radius: 2px;
+    border: 0.3px solid #5f6368;
+
+}
+
+footer{
+    bottom: 0;
+    background-color: #f2f2f2;
+    width: 100%;
+    height: 5rem;
+    position: fixed;
+}
+
+.footer-country{
+    margin-left: 1.5rem;
+    margin-top: 0.7rem;
+}
+
+.footer-01{
+    float: left;
+    margin-top: 0.2rem;
+    padding-top: 0.2rem;
+    margin-left: 1.5rem;
+}
+
+.footer-02{
+    float: right;
+    margin-right: 1.5rem;
+}
+
+#lang{
+    color: #1A0DAB;
+}

@@ -1,0 +1,38 @@
+body{
+    background-color: indigo;
+}
+h1 {
+    color: honeydew;
+}
+h2{
+    font-size: 20px;
+    color: #cc99ff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Así son los comentarios en CSS */
+
+.clase1{
+    font-size: 50px;
+    color: blue;
+    background-color: white;
+}
+
+.clase1 p{
+    margin: 0px;
+}
+
+#NOT{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    color: aliceblue;
+    /* Con el "#" se manda llamar un id. Id es un atributo. Todo lo que va dentro de una etiqueta es un atributo.
+    REM también es una unidad de medición, similar a PX. Se está usando más como estándar en estilos en CSS.
+    Hay calculadoras en línea que pueden hacer la conversión. 
+    */
+}
+
+.clase2{
+    color: blue;
+    background-color: aqua;
+}

@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text1{
+    font-size: 20px;
+    background-color: blue;
+    color: rgb(70, 151, 199);
+}
+
+.text2{
+    font-size: 30px;
+    background-color: brown;
+    color: chocolate;
+}
+
+.text3{
+    font-size: 40px;
+    background-color: cornsilk;
+    color: crimson;
+}
+
+p{
+    margin: 0px;
+}
